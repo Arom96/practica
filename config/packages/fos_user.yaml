@@ -5,3 +5,7 @@ fos_user:
   from_email:
     address: "aaron.cruz@epn.edu.ec"
     sender_name: "Aaron Cruz"
+
+  registration:
+    confirmation:
+      enabled: true
